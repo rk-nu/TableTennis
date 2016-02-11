@@ -1,0 +1,50 @@
+
+.player-label {
+    margin-bottom: 50px;
+}
+
+.wins-board {
+    margin-top: 20px;
+}
+.wins-board span {
+    margin-right: 30px;
+}
+
+.wins-label {
+    margin-top: 10px;
+}
+.wins-label span{
+    margin-right: 40px;
+}
+
+.add-score {
+    margin-left: 13px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    font-size: 20px;
+    padding: 12px;
+}
+
+.wins {
+    background-color: #5cb85c;
+    margin-right: 40px;
+}
+
+.loss {
+    background-color: #d9534f;
+}
+
+.score {
+    background-color: #2e6da4;
+}
+
+.score-label {
+    font-size: 16px;
+}
